@@ -104,7 +104,7 @@ const GetReady = () => {
                 <span className="icon hasFontIcon icon-star" id={1651437608} />
               </span>
               <span className="text" id={1358707166}>
-                I'M READY!
+                IM READY!
               </span>
             </a>
           </div>

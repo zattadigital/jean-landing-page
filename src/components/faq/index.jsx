@@ -28,7 +28,7 @@ const Faq = () => {
                     display: "initial",
                   }}
                 >
-                  FAQ's
+                  FAQ
                 </span>
               </h2>
             </div>
