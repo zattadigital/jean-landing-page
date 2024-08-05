@@ -22,7 +22,7 @@ const Compare = () => {
               display: "block",
             }}
           >
-            <p
+            {/* <p
               className="text-align-center m-size-24 size-36"
               style={{ lineHeight: 1 }}
               id="results"
@@ -38,22 +38,24 @@ const Compare = () => {
               >
                 TRANSFORMAÇÂO DE CLIENTES
               </span>
-            </p>
+            </p> */}
             <p
-              className="m-size-36 text-align-center size-48"
-              style={{ lineHeight: 1, paddingTop: '20px' }}
+              className="m-size-28 text-align-center size-48"
+              style={{ lineHeight: 1, paddingTop: "20px" }}
             >
               <span
-                className="m-font-size-36 font-size-48"
+                className="m-font-size-28 font-size-48"
                 m-font-size-set="true"
                 style={{
                   fontWeight: "bold",
                   color: "rgb(216, 168, 0)",
                   display: "unset",
                   textTransform: "uppercase",
+                  fontSize: "26px !important",
                 }}
               >
-                RESULTADOS OBTIDOS EM 5 MESES
+                Veja algumas transformações de clientes que já treinavam mas não
+                estavam satisfeitos com seus resultados!
               </span>
             </p>
           </div>
@@ -209,6 +211,13 @@ const Compare = () => {
                   </li>
                 </div>
               </div>
+              <p
+                className="text-align-center m-size-14"
+                style={{ lineHeight: 1, color: "white", marginTop: "0" }}
+              >
+                Treinava a 1 ano sozinho. Veja o resultado depois de 5 meses de
+                acompanhamento
+              </p>
               <div className="photogallery-row" data-index={1}>
                 <div className="photogallery-column  column-2" data-index={0}>
                   <li
@@ -299,7 +308,7 @@ const Compare = () => {
                             irh=""
                             irw=""
                             alt=""
-                            data-src="/assets/images/comp-2-pic-2.jpeg"
+                            src="/assets/images/comp-2-pic-2.jpeg"
                             id={1171649997}
                             loading="lazy"
                           />
@@ -338,6 +347,13 @@ const Compare = () => {
                   </li>
                 </div>
               </div>
+              <p
+                className="text-align-center m-size-14"
+                style={{ lineHeight: 1, color: "white", marginTop: "0" }}
+              >
+                Treinava a 2 anos sozinho. Veja o resultado depois de 5 meses de
+                acompanhamento
+              </p>
               <div className="photogallery-row" data-index={2}>
                 <div className="photogallery-column  column-2" data-index={0}>
                   <li
@@ -357,14 +373,14 @@ const Compare = () => {
                           id={1252844281}
                           style={{
                             backgroundImage:
-                              'url("/assets/images/comp-3.jpeg")',
+                              'url("/assets/images/comp-3-pic-1.jpeg")',
                           }}
                         >
                           <img
                             irh=""
                             irw=""
                             alt=""
-                            data-src="/assets/images/comp-3.jpeg"
+                            data-src="/assets/images/comp-3-pic-1.jpeg"
                             id={1961702405}
                             loading="lazy"
                           />
@@ -417,13 +433,18 @@ const Compare = () => {
                         {" "}
                         <a
                           data-dm-multisize-attr="href"
-                          data-image-url="https://irp-cdn.multiscreensite.com/cb86c99c/import/clib/ulissesworld_com/dms3rep/multi/WhatsApp-Image-2019-11-28-at-6.08.37-PM-2--1600x1600.jpg"
+                          data-image-url="/assets/images/comp-3-pic-2.jpeg"
                           id={1650204842}
+                          style={{
+                            backgroundImage:
+                              'url("/assets/images/comp-3-pic-2.jpeg")',
+                          }}
                         >
                           <img
                             irh=""
                             irw=""
                             alt=""
+                            data-src="/assets/images/comp-3-pic-2.jpeg"
                             id={1966636118}
                             loading="lazy"
                           />
@@ -464,6 +485,13 @@ const Compare = () => {
                   </li>
                 </div>
               </div>
+              <p
+                className="text-align-center m-size-14"
+                style={{ lineHeight: 1, color: "white", marginTop: "0" }}
+              >
+                Treinava a 1 ano sozinho. Veja o resultado depois de 5 meses de
+                acompanhamento
+              </p>
             </div>
             <div
               className="photoGalleryViewAll link"

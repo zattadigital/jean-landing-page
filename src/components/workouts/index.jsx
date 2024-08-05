@@ -157,7 +157,7 @@ const Workouts = () => {
                     fontWeight: "bold",
                   }}
                 >
-                  TREINOS PERSONALIZADOS
+                  A MELHOR PERIODIZAÇÃO PARA VOCÊ
                 </span>
               </p>
             </div>
@@ -209,10 +209,10 @@ const Workouts = () => {
                     color: "rgb(239, 239, 239)",
                   }}
                 >
-                  Meus programas de treino são projetados especificamente com
-                  base na SUA preferência e objetivos selecionados. Eles são
-                  projetados para todos - Homens, mulheres, iniciantes e
-                  avançados.
+                  Meus protocolos de treino são criados com base nas SUAS
+                  individualidades, preferência e objetivos visando extrair o
+                  máximo de sua capacidade, assim buscando cada vez mais o shape
+                  dos seus sonhos!
                   <br />
                 </span>
               </p>
@@ -237,10 +237,9 @@ const Workouts = () => {
                     color: "rgb(239, 239, 239)",
                   }}
                 >
-                  Os programas são atualizados mensalmente para garantir que
-                  estejam sempre desafiador e obter os melhores resultados
-                  possíveis. Com anos de experiência na indústria, você pode
-                  confiar no trabalho dos meus programas.
+                  Faço o acompanhamento dos protocolos semanalmente/mensalmente
+                  para garantir que você não fique estagnado, assim obtendo
+                  resultados impressionantes, fora da curva!
                 </span>
                 <span style={{ display: "initial" }}>
                   <br />

@@ -137,10 +137,10 @@ const Hero = () => {
             }}
           >
             <p
-              className="m-size-48 text-align-center size-60"
+              className="m-size-28 text-align-center size-60"
               style={{ lineHeight: 1 }}
             >
-              <span
+              {/* <span
                 style={{
                   fontWeight: "bold",
                   color: "rgb(216, 168, 0)",
@@ -150,7 +150,7 @@ const Hero = () => {
                 m-font-size-set="true"
               >
                 TE EMPRESTO
-              </span>
+              </span> */}
               <span
                 single-space="true"
                 className="m-font-size-48 font-size-60"
@@ -175,11 +175,58 @@ const Hero = () => {
                   fontWeight: "bold",
                   color: "rgb(255, 255, 255)",
                   display: "initial",
+                  textTransform: "uppercase",
+                  fontSize: "28px !important",
                 }}
-                className="m-font-size-48 font-size-60"
+                className=""
                 m-font-size-set="true"
               >
-                R$ 150
+                Você se dedica ao{" "}
+                <span
+                  style={{
+                    fontWeight: "bold",
+                    color: "rgb(216, 168, 0)",
+                    display: "unset",
+                  }}
+                  className="m-font-size-28 font-size-60"
+                  m-font-size-set="true"
+                >
+                  máximo
+                </span>{" "}
+                 nos treinos, mas seu corpo <span
+                  style={{
+                    fontWeight: "bold",
+                    color: "rgb(216, 168, 0)",
+                    display: "unset",
+                  }}
+                  className="m-font-size-28 font-size-60"
+                  m-font-size-set="true"
+                >
+
+<span
+                  style={{
+                    fontWeight: "bold",
+                    color: "rgb(216, 168, 0)",
+                    display: "unset",
+                  }}
+                  className="m-font-size-28 font-size-60"
+                  m-font-size-set="true"
+                >
+                  não
+                </span>
+                  
+                </span> mostra os <span
+                  style={{
+                    fontWeight: "bold",
+                    color: "rgb(216, 168, 0)",
+                    display: "unset",
+                  }}
+                  className="m-font-size-28 font-size-60"
+                  m-font-size-set="true"
+                >
+                  resultados
+                  esperados?
+                </span> 
               </span>
               {/* <span
                 style={{
@@ -293,8 +340,12 @@ const Hero = () => {
               {" "}
               <span className="icon hasFontIcon icon-star" id={1848238682} />
             </span>
-            <span className="text" id={1627352477}>
-              CONTRATAR
+            <span
+              className="text"
+              id={1627352477}
+              style={{ padding: "7px 7px" }}
+            >
+              QUERO FAZER PARTE DO TIME
             </span>
           </a>
           <Link
@@ -387,7 +438,10 @@ const Hero = () => {
                       className="font-size-36 m-font-size-24"
                       m-font-size-set="true"
                     >
-                      TENHA OS MELHORES RESULTADOS
+                      A maioria das pessoas que estão na academia não tem o
+                      corpo que almejam, isso por que existem erros que
+                      praticamente todas elas cometem e que anulam total sua
+                      resposta a hipertrofia.
                     </span>
                   </p>
                   <p
@@ -405,8 +459,8 @@ const Hero = () => {
                     <span style={{ display: "initial" }}>C</span>
                   </p>
                   <p
-                    className="m-text-align-center text-align-center size-24 m-size-18"
-                    style={{ lineHeight: 1 }}
+                    className=" text-align-center size-24 m-size-18"
+                    style={{ lineHeight: 1, paddingLeft: "15px" }}
                   >
                     {/* <span
                       className="font-size-24 m-font-size-18"
@@ -434,19 +488,40 @@ const Hero = () => {
                       className="font-size-24 m-font-size-18"
                       m-font-size-set="true"
                     >
-                      {"TREINAMENTOS "}
+                      {/* {"TREINAMENTOS "} */}
+                      {/* 👉🏾 Falta de alongamentos específicos;<br/> 
+                      👉🏾 Divisão de treino
+                      ruim; <br/>
+                      👉🏾 Escolha errada dos exercícios que potencializam a
+                      hipertrofia da musculatura alvo; <br/> 
+                      👉🏾 Falta de intensidade
+                      no treinamento. */}
                       <span
                         style={{
                           color: "rgb(255, 255, 255)",
-                          display: "initial",
+                          display: "flex",
+                          flexWrap: "wrap",
+                          gap: "12px",
                           fontWeight: "bold",
+                          textAlign: "left",
                         }}
                         className="font-size-24 m-font-size-18"
                         m-font-size-set="true"
                       >
-                        {"PERSONALIZADOS "}
+                        {/* {"PERSONALIZADOS "} */}
+                        <div>- Falta de alongamentos específicos;</div>
+                        {/* <br /> */}
+                        <div>- Divisão de treino ruim; </div>
+                        {/* <br /> */}
+                        <div>
+                          - Escolha errada dos exercícios que potencializam a
+                          hipertrofia da musculatura alvo;{" "}
+                        </div>
+                        <div>
+                          {/* <br /> */}- Falta de intensidade no treinamento.
+                        </div>
                       </span>
-                      {"PARA A SUA  "}
+                      {/* {"PARA A SUA  "} */}
                       <span
                         style={{
                           color: "rgb(255, 255, 255)",
@@ -456,7 +531,7 @@ const Hero = () => {
                         className="font-size-24 m-font-size-18"
                         m-font-size-set="true"
                       >
-                        {"MÁXIMA PERFORMANCE"}
+                        {/* {"MÁXIMA PERFORMANCE"} */}
                       </span>
                     </span>
 

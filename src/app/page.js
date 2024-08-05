@@ -21,6 +21,31 @@ export default function Home() {
     contact: { phone = "", contactMessage = "" },
   } = config || {};
 
+  const renderText = () => {
+    return (
+      <span
+        style={{
+          color: "rgb(255, 255, 255)",
+          display: "initial",
+          fontWeight: "bold",
+        }}
+        className="font-size-24 m-font-size-18"
+        m-font-size-set="true"
+      >
+        {/* {"PERSONALIZADOS "} */}
+        <div>- Falta de alongamentos específicos;</div>
+        {/* <br /> */}
+        <div>- Divisão de treino ruim; </div>
+        {/* <br /> */}
+        <div>
+          - Escolha errada dos exercícios que potencializam a hipertrofia da
+          musculatura alvo;{" "}
+        </div>
+        <div>{/* <br /> */}- Falta de intensidade no treinamento.</div>
+      </span>
+    );
+  };
+
   return (
     <div id="dm" className="dmwr">
       <div className="dm_wrapper mobileHamburgerLayout-var5 null mobileHamburgerLayout">
@@ -478,6 +503,9 @@ export default function Home() {
                               </div>
                               {/* Hero - start */}
                               <Hero />
+                              {/* <Divisor
+                                text={renderText()}
+                              /> */}
                               {/* Hero - end */}
                               {/* Compare - start */}
                               <Compare />
@@ -489,8 +517,8 @@ export default function Home() {
                               {/* Start now - start */}
                               {/* <GetReady /> */}
                               <Divisor
-                                text="PREPARADO PARA TER MELHORES "
-                                underlineText="RESULTADOS?"
+                                text="FAÇA PARTE DO TIME E VAMOS CRIAR SUA MELHOR "
+                                underlineText="VERSÃO"
                               />
                               <StartNow />
                               {/* Start now - end */}

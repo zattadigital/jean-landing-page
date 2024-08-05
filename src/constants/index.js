@@ -1,59 +1,60 @@
 export default {
   contact: {
     phone: "51998205661",
-    contactMessage: "Olá, gostaria de mais informações sobre o acompanhamento online"
+    contactMessage:
+      "Olá, gostaria de mais informações sobre o acompanhamento online",
   },
   plans: [
     {
       id: "monthly",
       displayName: "MENSAL",
       abreviation: "mês",
-      price: "109,90",
+      price: "129,90",
       title: "CONSULTORIA ONLINE",
       benefits: [
-        "Avaliação postural por fotos",
-        "Treino personalizado de acordo com seus objetivos",
+        "Ajustes de postura",
         "Correções de exercícios por vídeos",
-        "App com demonstração de cada exercício",
-        "Suporte a qualquer dúvida em até 5 horas",
+        "Acesso ao APP com vídeos e orientações de cada exercício",
+        "Protocolo de treinamento personalizado todos os meses de acordo com seus objetivos",
+        "Suporte para dúvidas via WhatsApp com retorno em até 24 horas",
       ],
       messageWhatsappContact: "Olá, gostaria de contratar o plano mensal",
       textBuyButton: "Contratar",
-      bestOffer: false
+      bestOfferText: null,
     },
     {
       id: "trimestral",
       displayName: "TRIMESTRAL",
       abreviation: "tri",
-      price: "299,90",
+      price: "329,90",
       title: "CONSULTORIA ONLINE",
       benefits: [
-        "Avaliação postural por fotos",
-        "Treino personalizado de acordo com seus objetivos",
+        "Ajustes de postura",
         "Correções de exercícios por vídeos",
-        "App com demonstração de cada exercício",
-        "Suporte a qualquer dúvida em até 5 horas",
+        "Acesso ao APP com vídeos e orientações de cada exercício",
+        "Protocolo de treinamento personalizado todos os meses de acordo com seus objetivos",
+        "Suporte para dúvidas via WhatsApp com retorno em até 24 horas",
       ],
       messageWhatsappContact: "Olá, gostaria de contratar o plano trimestral",
       textBuyButton: "Contratar",
-      bestOffer: true
+      bestOfferText: "Desconto 15%",
     },
     {
       id: "semestral",
       displayName: "SEMESTRAL",
       abreviation: "sem",
-      price: "509,90",
+      price: "619,90",
       title: "CONSULTORIA ONLINE",
       benefits: [
-        "Avaliação postural por fotos",
-        "Treino personalizado de acordo com seus objetivos",
+        "Ajustes de postura",
         "Correções de exercícios por vídeos",
-        "App com demonstração de cada exercício",
-        "Suporte a qualquer dúvida em até 5 horas",
+        "Acesso ao APP com vídeos e orientações de cada exercício",
+        "Protocolo de treinamento personalizado todos os meses de acordo com seus objetivos",
+        "Suporte para dúvidas via WhatsApp com retorno em até 24 horas",
       ],
       messageWhatsappContact: "Olá, gostaria de contratar o plano semestral",
       textBuyButton: "Contratar",
-      bestOffer: false
+      bestOfferText: "Desconto 20%",
     },
   ],
   locales: {

@@ -29,7 +29,7 @@ const Pricing = () => {
                   id={1323229572}
                   data-loaded="true"
                 >
-                  {plan?.bestOffer && (
+                  {plan?.bestOfferText && (
                     <div
                       className="u_1384678582 default dmShape"
                       id={1384678582}
@@ -63,7 +63,7 @@ const Pricing = () => {
                           id={1218641992}
                         >
                           <h3 className="shape-text" id={1897796727}>
-                            Melhor Oferta
+                            {plan?.bestOfferText}
                           </h3>
                           <div className="shape-description" id={1895106801} />
                         </div>
