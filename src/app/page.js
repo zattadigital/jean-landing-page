@@ -2210,7 +2210,7 @@ export default function Home() {
                                 </div>
                               </div> */}
                               {/* About - start */}
-                              <About />
+                              {/* <About /> */}
                               {/* About - end */}
                               {/* <Faq /> */}
                               {/* Get ready - start */}
