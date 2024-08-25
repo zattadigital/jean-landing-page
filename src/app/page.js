@@ -3,6 +3,7 @@
 // import '@/assets/css/override.css'
 
 import About from "@/components/about";
+import Causes from "@/components/causes";
 import Compare from "@/components/compare";
 import Divisor from "@/components/divisor";
 import Divisor1 from "@/components/divisor-1";
@@ -508,10 +509,22 @@ export default function Home() {
                               /> */}
                               {/* Hero - end */}
                               {/* Compare - start */}
+
+                              <Causes/>
+
+                              <Divisor
+                                text="CONSTRUA UM FÌSICO MELHOR"
+                                // underlineText="VOCÊ"
+                              />
+                              
                               <Compare />
                               {/* Compare - end */}
                               {/* Divisor - start */}
                               {/* <Divisor1 /> */}
+                              <Divisor
+                                text="PROGRAMA DE TREINAMENTO ESPECIAL"
+                                // underlineText="VOCÊ"
+                              />
                               <Workouts />
                               {/* Divisor - end */}
                               {/* Start now - start */}

@@ -40,15 +40,16 @@ const Compare = () => {
               </span>
             </p> */}
             <p
-              className="m-size-28 text-align-center size-48"
+              className="m-size-24 text-align-center size-48"
               style={{ lineHeight: 1, paddingTop: "20px" }}
+              id="results"
             >
               <span
-                className="m-font-size-28 font-size-48"
+                className="m-font-size-24 font-size-48"
                 m-font-size-set="true"
                 style={{
                   fontWeight: "bold",
-                  color: "rgb(216, 168, 0)",
+                  color: "rgb(255, 205, 30)",
                   display: "unset",
                   textTransform: "uppercase",
                   fontSize: "26px !important",
@@ -351,7 +352,7 @@ const Compare = () => {
                 className="text-align-center m-size-14"
                 style={{ lineHeight: 1, color: "white", marginTop: "0" }}
               >
-                Treinava a 2 anos sozinho. Veja o resultado depois de 5 meses de
+                Treinava a 2 anos sozinha. Veja o resultado depois de 5 meses de
                 acompanhamento
               </p>
               <div className="photogallery-row" data-index={2}>

@@ -48,7 +48,7 @@ const Pricing = () => {
                       shape-type="parallelogram"
                       show-text-on-shape="true"
                       show-description-on-shape="true"
-                      shape-color="rgba(216,168,0,1)"
+                      shape-color="rgb(130 52 233)"
                       border-color-shape=""
                       overlay-color="#ffffff"
                       image-position="xMidYMid"
@@ -78,7 +78,7 @@ const Pricing = () => {
                             <polygon
                               points="0,0 80,0 100,100 20,100 "
                               style={{
-                                fill: "rgba(216,168,0,1)",
+                                fill: "rgb(130 52 233)",
                               }}
                             />
                           </g>
@@ -161,7 +161,7 @@ const Pricing = () => {
                       <span
                         className="m-font-size-28 font-size-35"
                         style={{
-                          color: "rgb(216, 168, 0)",
+                          color: "rgb(255 205 30)",
                           fontWeight: 700,
                           display: "unset",
                           fontFamily: 'Barlow, "Barlow Fallback"',
@@ -224,7 +224,7 @@ const Pricing = () => {
                     //   href="https://dedicated.ulissesworld.com/subscribe/533e10a7-0b90-4e05-adb3-bd576fe9beaf/sign-up"
                     data-element-type="dButtonLinkId"
                     id={1698594783}
-                    data-buttonstyle="SQUISHY"
+                    // data-buttonstyle="SQUISHY"
                     target="_blank"
                     data-background-image="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDc1IDQwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9ImhhdDAiIGdyYWRpZW50VW5pdHM9Im9iamVjdEJvdW5kaW5nQm94IiB4MT0iNTAlIiB5MT0iMTAwJSIgeDI9IjUwJSIgeTI9Ii0xLjQyMTA4NTQ3MTUyMDJlLTE0JSI+CjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNDA1MDUiIHN0b3Atb3BhY2l0eT0iMC4wNSIvPgo8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmYiIHN0b3Atb3BhY2l0eT0iMC4wNSIvPgogICA8L2xpbmVhckdyYWRpZW50PgoKPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijc1IiBoZWlnaHQ9IjQwIiBmaWxsPSJ1cmwoI2hhdDApIiAvPgo8L3N2Zz4="
                     style={{

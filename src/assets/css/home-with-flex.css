@@ -1240,7 +1240,7 @@ div.u_1309513108 {
 
 #dm .dmBody div.u_1042324975 {
   background-image: none !important;
-  background-color: #292929 !important;
+  background-color: rgb(26 26 30) !important;
 }
 
 #dm .dmBody div.u_1631696181 {
@@ -1257,10 +1257,10 @@ div.u_1309513108 {
 
 #dm .dmBody div.u_1266538340,
 #dm .dmBody div.u_1997465863 {
-  background-color: #ff9216 !important;
+  /* background-color: #ff9216 !important;
   background-repeat: no-repeat !important;
   background-image: url(https://lirp.cdn-website.com/cb86c99c/dms3rep/multi/opt/ulisses-640w.jpeg) !important;
-  background-size: cover !important;
+  background-size: cover !important; */
 }
 
 #dm .dmBody div.u_1365976060 .svg,
@@ -1514,8 +1514,9 @@ div.u_1309513108 {
 }
 
 #dm .dmBody div.u_1174747472 {
-  background-image: linear-gradient(90deg, #d8a800 0, #7d5003 100%) !important;
+  background-image: linear-gradient(90deg, rgb(130 52 233) 0, #333 100%) !important;
   background-origin: border-box !important;
+  /* background-color: rgb(130 52 233) !important; */
 }
 
 #dm .dmBody div.u_1515412044 {
@@ -1665,7 +1666,7 @@ div.u_1309513108 {
 }
 
 #dm .dmBody div.u_1933124479 {
-  background-color: rgba(0, 0, 0, 0.46) !important;
+  background-color: rgb(26 26 30) !important;
 }
 
 #dm .dmBody div.u_1619590723 {
@@ -2023,7 +2024,7 @@ div.u_1309513108 .color-overlay {
 }
 
 #dm .dmBody div.u_STARTNOW {
-  background-color: #292929 !important;
+  background-color: rgb(26 26 30) !important;
 }
 
 #dm .dmBody a.u_1677118509 .iconBg {
@@ -2549,10 +2550,10 @@ div.u_1309513108 .color-overlay {
 #dm .dmBody a.u_1757779477,
 #dm .dmBody a.u_1848260600,
 a.u_1337210630 {
-  background-color: #d8a800 !important;
-  border-radius: 0 !important;
-  -moz-border-radius: 0 !important;
-  -webkit-border-radius: 0 !important;
+  background-color: rgb(130 52 233) !important;
+  border-radius: 4px !important;
+  -moz-border-radius: 4px !important;
+  -webkit-border-radius: 4px !important;
 }
 
 #dm .dmBody a.u_1848260600 span.text,
@@ -2915,6 +2916,7 @@ div.u_1601669732 .shape-text {
 
 #dm .dmBody div.u_1323198548 {
   background-repeat: no-repeat !important;
+  /* background-image: url('https://lirp.cdn-website.com/cb86c99c/dms3rep/multi/opt/ulisses-640w.jpeg') !important; */
   background-image: url('../images/jean-personal.jpg.jpeg') !important;
   box-shadow: none !important;
   -moz-box-shadow: none !important;
@@ -3017,7 +3019,7 @@ div.u_1601669732 .shape-description ul {
 
 #dm .dmBody div.u_1323229572,
 #dm .dmBody div.u_1549561334 {
-  background-color: #292929 !important;
+  background-color: rgb(26 26 30) !important;
   background-repeat: no-repeat !important;
   background-image: none !important;
   background-size: cover !important;
@@ -3034,7 +3036,8 @@ div.u_1601669732 .shape-description ul {
   -moz-border-radius: 25px !important;
   -webkit-border-radius: 25px !important;
   /* background-image: url(https://lirp.cdn-website.com/cb86c99c/dms3rep/multi/opt/IMG_0342-640w.JPG) !important; */
-  border-color: #d8a800 !important;
+  /* border-color: #d8a800 !important; */
+  border-color: rgb(130 52 233) !important;
 }
 
 #dm .dmBody div.u_1126300499 {
@@ -7370,7 +7373,7 @@ a.u_1337210630 span.text {
 #dm .dmBody div.u_1933124479 {
   width: auto !important;
   max-width: 100% !important;
-  margin: 90px 0 0 !important;
+  /* margin: 90px 0 0 !important; */
   padding: 15px 0 30px !important;
   min-width: 0 !important;
   text-align: start !important;
