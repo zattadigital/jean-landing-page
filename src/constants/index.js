@@ -1,6 +1,6 @@
 export default {
   contact: {
-    phone: "51998205661",
+    phone: "51989561477",
     contactMessage:
       "Olá, gostaria de mais informações sobre o acompanhamento online",
   },

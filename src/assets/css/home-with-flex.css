@@ -2909,9 +2909,10 @@ div.u_1601669732 .shape-text {
   background-image: linear-gradient(
     135deg,
     #292929 55%,
-    #d8a800 100%
+    rgb(13, 131, 239) 100%
+    /* #d8a800 100% */
   ) !important;
-  opacity: 0.67 !important;
+  opacity: 0.5 !important;
 }
 
 #dm .dmBody div.u_1323198548 {
