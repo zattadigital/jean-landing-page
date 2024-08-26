@@ -26,7 +26,7 @@ const Causes = () => {
             >
               <p
                 className="m-text-align-center text-align-center m-size-24 size-36"
-                style={{ lineHeight: 1 }}
+                style={{ lineHeight: 1, marginBottom: "50px" }}
               >
                 {/* <span
                   style={{
@@ -44,8 +44,8 @@ const Causes = () => {
                 <span
                   style={{
                     fontWeight: "bold",
-                    color: "rgb(255, 205, 30)",
-                    display: "initial",
+                    color: "rgb(255, 255, 255)",
+                    display: "initial"
                   }}
                   className="font-size-36 m-font-size-24"
                   m-font-size-set="true"
@@ -61,13 +61,13 @@ const Causes = () => {
                   <br />
                 </span>
               </p>
-              <p
+              {/* <p
                 className="m-text-align-center text-align-center"
                 style={{ lineHeight: 1 }}
               >
                 <span style={{ display: "initial" }}>C</span>
-              </p>
-              <p
+              </p> */}
+              <div
                 className=" text-align-center size-24 m-size-18"
                 style={{ lineHeight: 1, paddingLeft: "15px" }}
               >
@@ -107,7 +107,7 @@ const Causes = () => {
                       no treinamento. */}
                   <span
                     style={{
-                      color: "rgb(255, 255, 255)",
+                      color: "rgb(255 205 30)",
                       display: "flex",
                       flexWrap: "wrap",
                       gap: "12px",
@@ -143,7 +143,7 @@ const Causes = () => {
                     {/* {"MÁXIMA PERFORMANCE"} */}
                   </span>
                 </span>
-              </p>
+              </div>
             </div>
           </div>
         </div>

@@ -41,15 +41,15 @@ const Compare = () => {
             </p> */}
             <p
               className="m-size-24 text-align-center size-48"
-              style={{ lineHeight: 1, paddingTop: "20px" }}
+              style={{ lineHeight: 1 }}
               id="results"
             >
               <span
-                className="m-font-size-24 font-size-48"
+                className="m-font-size-20 font-size-48"
                 m-font-size-set="true"
                 style={{
                   fontWeight: "bold",
-                  color: "rgb(255, 205, 30)",
+                  color: "rgb(255, 255, 255)",
                   display: "unset",
                   textTransform: "uppercase",
                   fontSize: "26px !important",
@@ -84,7 +84,7 @@ const Compare = () => {
             <div className="layout-container square">
               <div className="photogallery-row" data-index={0}>
                 <div className="photogallery-column  column-2" data-index={0}>
-                  <li
+                  <div
                     className="photoGalleryThumbs animated null"
                     id={1514525288}
                     data-index={0}
@@ -145,10 +145,10 @@ const Compare = () => {
                         </span>
                       </div>
                     </div>
-                  </li>
+                  </div>
                 </div>
                 <div className="photogallery-column  column-2" data-index={1}>
-                  <li
+                  <div
                     className="photoGalleryThumbs animated null"
                     id={1267046968}
                     data-index={1}
@@ -209,7 +209,7 @@ const Compare = () => {
                         </span>
                       </div>
                     </div>
-                  </li>
+                  </div>
                 </div>
               </div>
               <p
@@ -221,7 +221,7 @@ const Compare = () => {
               </p>
               <div className="photogallery-row" data-index={1}>
                 <div className="photogallery-column  column-2" data-index={0}>
-                  <li
+                  <div
                     className="photoGalleryThumbs animated null"
                     id={1190420224}
                     data-index={2}
@@ -282,10 +282,10 @@ const Compare = () => {
                         </span>
                       </div>
                     </div>
-                  </li>
+                  </div>
                 </div>
                 <div className="photogallery-column  column-2" data-index={1}>
-                  <li
+                  <div
                     className="photoGalleryThumbs animated null"
                     id={1520011885}
                     data-index={3}
@@ -345,7 +345,7 @@ const Compare = () => {
                         </span>
                       </div>
                     </div>
-                  </li>
+                  </div>
                 </div>
               </div>
               <p
@@ -357,7 +357,7 @@ const Compare = () => {
               </p>
               <div className="photogallery-row" data-index={2}>
                 <div className="photogallery-column  column-2" data-index={0}>
-                  <li
+                  <div
                     className="photoGalleryThumbs animated null"
                     id={1245261331}
                     data-index={4}
@@ -417,10 +417,10 @@ const Compare = () => {
                         </span>
                       </div>
                     </div>
-                  </li>
+                  </div>
                 </div>
                 <div className="photogallery-column  column-2" data-index={1}>
-                  <li
+                  <div
                     className="photoGalleryThumbs animated null"
                     id={1168312917}
                     data-index={5}
@@ -483,7 +483,7 @@ const Compare = () => {
                         </span>
                       </div>
                     </div>
-                  </li>
+                  </div>
                 </div>
               </div>
               <p
