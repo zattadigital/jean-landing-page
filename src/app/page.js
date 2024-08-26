@@ -164,6 +164,9 @@ export default function Home() {
                       <button
                         className="btn-whatsapp-pulse"
                         href={`https://wa.me//55${phone}?text=${contactMessage}`}
+                        id="whatsapp-contact"
+                        name="Contato whatsapp"
+                        aria-label="Contato whatsapp"
                       >
                         <i
                           className="fab fa-whatsapp"

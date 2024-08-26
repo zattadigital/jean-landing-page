@@ -114,36 +114,6 @@ const Compare = () => {
                           />
                         </a>
                       </div>
-                      <div
-                        className="caption-container"
-                        style={{
-                          display: "none",
-                          height: 182,
-                        }}
-                        id={1310403875}
-                      >
-                        {" "}
-                        <span className="caption-inner" id={1595650806}>
-                          {" "}
-                          <a
-                            className="caption-button dmWidget clearfix lazy"
-                            id={1356043073}
-                            data-background-image="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDc1IDQwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9ImhhdDAiIGdyYWRpZW50VW5pdHM9Im9iamVjdEJvdW5kaW5nQm94IiB4MT0iNTAlIiB5MT0iMTAwJSIgeDI9IjUwJSIgeTI9Ii0xLjQyMTA4NTQ3MTUyMDJlLTE0JSI+CjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNDA1MDUiIHN0b3Atb3BhY2l0eT0iMC4wNSIvPgo8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmYiIHN0b3Atb3BhY2l0eT0iMC4wNSIvPgogICA8L2xpbmVhckdyYWRpZW50PgoKPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijc1IiBoZWlnaHQ9IjQwIiBmaWxsPSJ1cmwoI2hhdDApIiAvPgo8L3N2Zz4="
-                          >
-                            {" "}
-                            <span className="iconBg" id={1127787545}>
-                              {" "}
-                              <span
-                                className="icon hasFontIcon icon-star"
-                                id={1708347924}
-                              />
-                            </span>
-                            <span className="text" id={1663548176}>
-                              Button
-                            </span>
-                          </a>
-                        </span>
-                      </div>
                     </div>
                   </div>
                 </div>
@@ -177,36 +147,6 @@ const Compare = () => {
                             loading="lazy"
                           />
                         </a>
-                      </div>
-                      <div
-                        className="caption-container"
-                        style={{
-                          display: "none",
-                          height: 182,
-                        }}
-                        id={1407283281}
-                      >
-                        {" "}
-                        <span className="caption-inner" id={1621815766}>
-                          {" "}
-                          <a
-                            className="caption-button dmWidget clearfix lazy"
-                            id={1107344160}
-                            data-background-image="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDc1IDQwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9ImhhdDAiIGdyYWRpZW50VW5pdHM9Im9iamVjdEJvdW5kaW5nQm94IiB4MT0iNTAlIiB5MT0iMTAwJSIgeDI9IjUwJSIgeTI9Ii0xLjQyMTA4NTQ3MTUyMDJlLTE0JSI+CjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNDA1MDUiIHN0b3Atb3BhY2l0eT0iMC4wNSIvPgo8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmYiIHN0b3Atb3BhY2l0eT0iMC4wNSIvPgogICA8L2xpbmVhckdyYWRpZW50PgoKPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijc1IiBoZWlnaHQ9IjQwIiBmaWxsPSJ1cmwoI2hhdDApIiAvPgo8L3N2Zz4="
-                          >
-                            {" "}
-                            <span className="iconBg" id={1288501865}>
-                              {" "}
-                              <span
-                                className="icon hasFontIcon icon-star"
-                                id={1123513515}
-                              />
-                            </span>
-                            <span className="text" id={1157405725}>
-                              Button
-                            </span>
-                          </a>
-                        </span>
                       </div>
                     </div>
                   </div>
@@ -250,36 +190,6 @@ const Compare = () => {
                             loading="lazy"
                           />
                         </a>
-                      </div>
-                      <div
-                        className="caption-container"
-                        style={{
-                          display: "none",
-                          height: 182,
-                        }}
-                        id={1342516620}
-                      >
-                        {" "}
-                        <span className="caption-inner" id={1191268005}>
-                          {" "}
-                          <a
-                            className="caption-button dmWidget clearfix lazy"
-                            id={1759253185}
-                            data-background-image="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDc1IDQwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9ImhhdDAiIGdyYWRpZW50VW5pdHM9Im9iamVjdEJvdW5kaW5nQm94IiB4MT0iNTAlIiB5MT0iMTAwJSIgeDI9IjUwJSIgeTI9Ii0xLjQyMTA4NTQ3MTUyMDJlLTE0JSI+CjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNDA1MDUiIHN0b3Atb3BhY2l0eT0iMC4wNSIvPgo8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmYiIHN0b3Atb3BhY2l0eT0iMC4wNSIvPgogICA8L2xpbmVhckdyYWRpZW50PgoKPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijc1IiBoZWlnaHQ9IjQwIiBmaWxsPSJ1cmwoI2hhdDApIiAvPgo8L3N2Zz4="
-                          >
-                            {" "}
-                            <span className="iconBg" id={1189670691}>
-                              {" "}
-                              <span
-                                className="icon hasFontIcon icon-star"
-                                id={1465592756}
-                              />
-                            </span>
-                            <span className="text" id={1540234886}>
-                              Button
-                            </span>
-                          </a>
-                        </span>
                       </div>
                     </div>
                   </div>
@@ -450,37 +360,6 @@ const Compare = () => {
                             loading="lazy"
                           />
                         </a>
-                      </div>
-                      <div
-                        className="caption-container"
-                        style={{
-                          display: "none",
-                          height: 182,
-                        }}
-                        id={1130366373}
-                      >
-                        {" "}
-                        <span className="caption-inner" id={1132336479}>
-                          {" "}
-                          <a
-                            className="caption-button dmWidget clearfix lazy"
-                            id={1833554059}
-                            data-background-image="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDc1IDQwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9ImhhdDAiIGdyYWRpZW50VW5pdHM9Im9iamVjdEJvdW5kaW5nQm94IiB4MT0iNTAlIiB5MT0iMTAwJSIgeDI9IjUwJSIgeTI9Ii0xLjQyMTA4NTQ3MTUyMDJlLTE0JSI+CjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNDA1MDUiIHN0b3Atb3BhY2l0eT0iMC4wNSIvPgo8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmYiIHN0b3Atb3BhY2l0eT0iMC4wNSIvPgogICA8L2xpbmVhckdyYWRpZW50PgoKPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijc1IiBoZWlnaHQ9IjQwIiBmaWxsPSJ1cmwoI2hhdDApIiAvPgo8L3N2Zz4="
-                            // style={{}}
-                          >
-                            {" "}
-                            <span className="iconBg" id={1674773950}>
-                              {" "}
-                              <span
-                                className="icon hasFontIcon icon-star"
-                                id={1145287606}
-                              />
-                            </span>
-                            <span className="text" id={1359721424}>
-                              Button
-                            </span>
-                          </a>
-                        </span>
                       </div>
                     </div>
                   </div>
