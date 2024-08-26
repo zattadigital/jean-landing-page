@@ -161,7 +161,7 @@ export default function Home() {
                         right: "5px",
                       }}
                     >
-                      <button
+                      <a
                         className="btn-whatsapp-pulse"
                         href={`https://wa.me//55${phone}?text=${contactMessage}`}
                         id="whatsapp-contact"
@@ -172,7 +172,7 @@ export default function Home() {
                           className="fab fa-whatsapp"
                           style={{ color: "white" }}
                         ></i>
-                      </button>
+                      </a>
                     </div>
                     {/* <a
                       className="dmBackToTop"
