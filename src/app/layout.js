@@ -1,4 +1,5 @@
 import { Inter } from "next/font/google";
+import { Analytics } from "@vercel/analytics/react"
 
 import "@/assets/css/global-min.css";
 import "@/assets/css/cb82.css";
@@ -74,6 +75,7 @@ export default function RootLayout({ children }) {
         style={{ padding: 0, margin: 0 }}
       >
         {children}
+        <Analytics />
       </body>
     </html>
   );
