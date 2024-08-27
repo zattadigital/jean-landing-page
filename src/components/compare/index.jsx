@@ -267,7 +267,8 @@ const Compare = () => {
               </p>
               <div className="photogallery-row" data-index={2}>
                 <div className="photogallery-column  column-2" data-index={0}>
-                  <div
+                  <ul style={{padding: '0', margin: '0'}}>
+                  <li
                     className="photoGalleryThumbs animated null"
                     id={1245261331}
                     data-index={4}
@@ -327,7 +328,8 @@ const Compare = () => {
                         </span>
                       </div>
                     </div>
-                  </div>
+                  </li>
+                  </ul>
                 </div>
                 <div className="photogallery-column  column-2" data-index={1}>
                   <div
