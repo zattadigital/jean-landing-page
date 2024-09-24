@@ -101,6 +101,85 @@ const Compare = () => {
                           id={1783990331}
                           style={{
                             backgroundImage:
+                              'url("/assets/images/comp-4-pic-1111.jpeg")',
+                          }}
+                        >
+                          <img
+                            irh=""
+                            irw=""
+                            alt=""
+                            // data-src="/assets/images/comp-4-pic-1-1.jpeg"
+                            src="/assets/images/comp-4-pic-1-1111.jpeg"
+                            id={1859286003}
+                            loading="lazy"
+                          />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="photogallery-column  column-2" data-index={1}>
+                  <div
+                    className="photoGalleryThumbs animated null"
+                    id={1267046968}
+                    data-index={1}
+                  >
+                    {" "}
+                    <div
+                      className="thumbnailInnerWrapper"
+                      style={{ opacity: 1 }}
+                    >
+                      <div className="image-container revealed" id={1295465444}>
+                        {" "}
+                        <a
+                          data-dm-multisize-attr="href"
+                          id={1908212350}
+                          style={{
+                            backgroundImage:
+                              'url("/assets/images/comp-4-pic-2.jpeg")',
+                          }}
+                        >
+                          <img
+                            irh=""
+                            irw=""
+                            alt=""
+                            data-src="/assets/images/comp-4-pic-2.jpeg"
+                            id={1362825653}
+                            loading="lazy"
+                          />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <p
+                className="text-align-center m-size-14"
+                style={{ lineHeight: 1, color: "white", marginTop: "0" }}
+              >
+                Treinava a 2 anos sozinha. Veja o resultado depois de 3 meses de
+                acompanhamento
+              </p>
+
+              <div className="photogallery-row" data-index={0}>
+                <div className="photogallery-column  column-2" data-index={0}>
+                  <div
+                    className="photoGalleryThumbs animated null"
+                    id={1514525288}
+                    data-index={0}
+                  >
+                    {" "}
+                    <div
+                      className="thumbnailInnerWrapper"
+                      style={{ opacity: 1 }}
+                    >
+                      <div className="image-container revealed" id={1843359092}>
+                        {" "}
+                        <a
+                          data-dm-multisize-attr="href"
+                          id={1783990331}
+                          style={{
+                            backgroundImage:
                               'url("/assets/images/comp-1-pic-1.jpeg")',
                           }}
                         >
@@ -159,6 +238,7 @@ const Compare = () => {
                 Treinava a 1 ano sozinho. Veja o resultado depois de 5 meses de
                 acompanhamento
               </p>
+
               <div className="photogallery-row" data-index={1}>
                 <div className="photogallery-column  column-2" data-index={0}>
                   <div
@@ -267,68 +347,71 @@ const Compare = () => {
               </p>
               <div className="photogallery-row" data-index={2}>
                 <div className="photogallery-column  column-2" data-index={0}>
-                  <ul style={{padding: '0', margin: '0'}}>
-                  <li
-                    className="photoGalleryThumbs animated null"
-                    id={1245261331}
-                    data-index={4}
-                  >
-                    {" "}
-                    <div
-                      className="thumbnailInnerWrapper"
-                      style={{ opacity: 1 }}
+                  <ul style={{ padding: "0", margin: "0" }}>
+                    <li
+                      className="photoGalleryThumbs animated null"
+                      id={1245261331}
+                      data-index={4}
                     >
-                      <div className="image-container revealed" id={1147378741}>
-                        {" "}
-                        <a
-                          data-dm-multisize-attr="href"
-                          id={1252844281}
-                          style={{
-                            backgroundImage:
-                              'url("/assets/images/comp-3-pic-1.jpeg")',
-                          }}
-                        >
-                          <img
-                            irh=""
-                            irw=""
-                            alt=""
-                            data-src="/assets/images/comp-3-pic-1.jpeg"
-                            id={1961702405}
-                            loading="lazy"
-                          />
-                        </a>
-                      </div>
+                      {" "}
                       <div
-                        className="caption-container"
-                        style={{
-                          display: "none",
-                          height: 182,
-                        }}
-                        id={1655264027}
+                        className="thumbnailInnerWrapper"
+                        style={{ opacity: 1 }}
                       >
-                        {" "}
-                        <span className="caption-inner" id={1704125608}>
+                        <div
+                          className="image-container revealed"
+                          id={1147378741}
+                        >
                           {" "}
                           <a
-                            className="caption-button dmWidget clearfix lazy"
-                            id={1077538507}
+                            data-dm-multisize-attr="href"
+                            id={1252844281}
+                            style={{
+                              backgroundImage:
+                                'url("/assets/images/comp-3-pic-1.jpeg")',
+                            }}
                           >
-                            {" "}
-                            <span className="iconBg" id={1016985271}>
-                              {" "}
-                              <span
-                                className="icon hasFontIcon icon-star"
-                                id={1802546265}
-                              />
-                            </span>
-                            <span className="text" id={1571070137}>
-                              Button
-                            </span>
+                            <img
+                              irh=""
+                              irw=""
+                              alt=""
+                              data-src="/assets/images/comp-3-pic-1.jpeg"
+                              id={1961702405}
+                              loading="lazy"
+                            />
                           </a>
-                        </span>
+                        </div>
+                        <div
+                          className="caption-container"
+                          style={{
+                            display: "none",
+                            height: 182,
+                          }}
+                          id={1655264027}
+                        >
+                          {" "}
+                          <span className="caption-inner" id={1704125608}>
+                            {" "}
+                            <a
+                              className="caption-button dmWidget clearfix lazy"
+                              id={1077538507}
+                            >
+                              {" "}
+                              <span className="iconBg" id={1016985271}>
+                                {" "}
+                                <span
+                                  className="icon hasFontIcon icon-star"
+                                  id={1802546265}
+                                />
+                              </span>
+                              <span className="text" id={1571070137}>
+                                Button
+                              </span>
+                            </a>
+                          </span>
+                        </div>
                       </div>
-                    </div>
-                  </li>
+                    </li>
                   </ul>
                 </div>
                 <div className="photogallery-column  column-2" data-index={1}>
