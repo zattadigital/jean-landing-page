@@ -160,7 +160,6 @@ const Compare = () => {
                 Treinava a 2 anos sozinha. Veja o resultado depois de 3 meses de
                 acompanhamento
               </p>
-
               <div className="photogallery-row" data-index={0}>
                 <div className="photogallery-column  column-2" data-index={0}>
                   <div
