@@ -153,7 +153,6 @@ const Compare = () => {
                   </div>
                 </div>
               </div>
-              
               <p
                 className="text-align-center m-size-14"
                 style={{ lineHeight: 1, color: "white", marginTop: "0" }}
